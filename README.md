@@ -1,18 +1,46 @@
-### Hi there, I'm Mariglen 👋
-Follow Me:
-<br />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=mariglenpupa&style=flat-square&color=blue" alt=""/>
+</div>
 
-[<img align="left" alt="Mariglen Pupa | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"/>][instagram]
-<br /><br />
-[![Twitter Follow](https://img.shields.io/twitter/follow/PupaMariglen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/pupamariglen)
-<br />
+<div align="center">
+  <a href="https://github.com/mariglenpupa">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariglenpupa&amp;show_icons=true&amp;theme=radical">
+  </a>
+  <br>
+  
+  ![mariglenpupa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariglenpupa&theme=neon&hide_border=true)
+</div>
 
-### Some Of The Tools I Use:
-<img align="left" alt="Visual Studio" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/github-512.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### Languages
+![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
+![Nim](https://img.shields.io/badge/-Nim-000?&logo=Nim)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Typescript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
-[instagram]: https://www.instagram.com/mariglen_pupa/
+<div >
+  <a href="https://github.com/mariglenpupa">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariglenpupa&amp;theme=radical&amp;layout=compact">
+  </a>
+</div>
+
+### Technologies
+![.NET](https://img.shields.io/badge/-000?&logo=dotNET)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
+![WinForms](https://img.shields.io/badge/-WinForms-000)
+![WPF](https://img.shields.io/badge/-WPF-000)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-000)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-000)
+<br>
+
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?&logo=MicrosoftSQLServer&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+
+
+### Currently Learning
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
